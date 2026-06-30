@@ -42,8 +42,7 @@ adopters.
   plus results such as 221 Instagram followers and Google Analytics traffic
   data.
 
-The team: Francisco Silva, Miguel Castela, Miguel Martins Cabral, Miguel
-Cabral Martins, Nuno Batista, and Ulisses Rodrigues. Delivered 20 December 2024.
+Delivered 20 December 2024.
 
 ## Repository structure
 
@@ -67,3 +66,12 @@ Cabral Martins, Nuno Batista, and Ulisses Rodrigues. Delivered 20 December 2024.
   `proof-of-concept-template.docx` for the proof-of-concept and MVP section.
 - `exam-prep/` holds `2018-normal-exam.pdf` (a past exam used for practice) and
   `summaries/`, a set of one-page topic summaries numbered by course topic.
+
+## Authors
+
+- Francisco Silva
+- Miguel Castela
+- Miguel Martins Cabral
+- Miguel Cabral Martins
+- Nuno Batista
+- Ulisses Rodrigues
